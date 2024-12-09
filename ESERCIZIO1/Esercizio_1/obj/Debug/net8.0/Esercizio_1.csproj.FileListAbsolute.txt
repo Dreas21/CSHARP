@@ -1,0 +1,14 @@
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\Esercizio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\Esercizio_1.AssemblyInfoInputs.cache
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\Esercizio_1.AssemblyInfo.cs
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\Esercizio_1.csproj.CoreCompileInputs.cache
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\bin\Debug\net8.0\Esercizio_1.exe
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\bin\Debug\net8.0\Esercizio_1.deps.json
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\bin\Debug\net8.0\Esercizio_1.runtimeconfig.json
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\bin\Debug\net8.0\Esercizio_1.dll
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\bin\Debug\net8.0\Esercizio_1.pdb
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\Esercizio_1.dll
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\refint\Esercizio_1.dll
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\Esercizio_1.pdb
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\Esercizio_1.genruntimeconfig.cache
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\ESERCIZIO1\Esercizio_1\obj\Debug\net8.0\ref\Esercizio_1.dll
