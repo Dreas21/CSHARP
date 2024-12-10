@@ -1,0 +1,15 @@
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\bin\Debug\net8.0\Esercizio3.exe
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\bin\Debug\net8.0\Esercizio3.deps.json
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\bin\Debug\net8.0\Esercizio3.runtimeconfig.json
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\bin\Debug\net8.0\Esercizio3.dll
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\bin\Debug\net8.0\Esercizio3.pdb
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\Esercizio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\Esercizio3.AssemblyInfoInputs.cache
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\Esercizio3.AssemblyInfo.cs
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\Esercizio3.csproj.CoreCompileInputs.cache
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\Esercizio3.sourcelink.json
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\Esercizio3.dll
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\refint\Esercizio3.dll
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\Esercizio3.pdb
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\Esercizio3.genruntimeconfig.cache
+C:\Users\ANLAMOLA\Documents\GitHub\CSHARP\CSHARP\ESERCIZIO3\Esercizio3\obj\Debug\net8.0\ref\Esercizio3.dll
