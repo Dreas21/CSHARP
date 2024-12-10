@@ -9,8 +9,8 @@ abstract class ProdottoSoftware
 
     public ProdottoSoftware(string nome, decimal prezzoVendita)
     {
-        Nome = nome;
-        PrezzoVendita = prezzoVendita;
+        this.Nome = nome;
+        this.PrezzoVendita = prezzoVendita;
     }
 
     // Metodo astratto che andremo ad implementare in WebApp
@@ -25,8 +25,8 @@ class WebApp : ProdottoSoftware
     public WebApp(string nome, decimal prezzoVendita, decimal costiServer, int numeroUtenti)
         : base(nome, prezzoVendita)
     {
-        CostiServer = costiServer;
-        NumeroUtenti = numeroUtenti;
+        this.CostiServer = costiServer;
+        this.NumeroUtenti = numeroUtenti;
     }
 
     public override decimal CalcolaGuadagno()
@@ -42,8 +42,8 @@ class MobileApp : ProdottoSoftware
     public MobileApp(string nome, decimal prezzoVendita, decimal costiStore, int downloadTotali)
         : base(nome, prezzoVendita)
     {
-        CostiStore = costiStore;
-        DownloadTotali = downloadTotali;
+        this.CostiStore = costiStore;
+        this.DownloadTotali = downloadTotali;
     }
 
     public override decimal CalcolaGuadagno()
